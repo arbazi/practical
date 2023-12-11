@@ -1,0 +1,26 @@
+.search-box
+{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 100px;
+    width: 500px;
+    padding: 20px 50px 80px 50px;
+    margin: 100px 300px 0px 300px;
+    background-color: seagreen;
+    color: white;
+    font-weight: 900;
+}
+
+.result-box
+{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: darkgray;
+    color: black;
+    text-align: center;
+    height: 100px;
+    width: 500px; 
+    margin: 0px 300px 0px 300px;
+    padding: 20px 50px 10px 50px;
+    max-width: 1000px;
+    font-weight: 900;
+}
